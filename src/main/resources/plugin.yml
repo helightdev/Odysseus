@@ -1,0 +1,7 @@
+name: Odysseus
+version: ${project.version}
+main: dev.helight.odysseus.OdysseusPlugin
+api-version: 1.16
+authors: [Helight]
+description: The Odysseus Game Engine
+load: STARTUP
